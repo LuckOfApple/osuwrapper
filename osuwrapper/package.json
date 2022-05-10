@@ -1,0 +1,27 @@
+{
+  "name": "osuwrapper",
+  "version": "1.0.0",
+  "description": "a node.js wrapper for the osu! api.",
+  "main": "osu.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckOfApple/osuwrapper.git"
+  },
+  "author": "Luck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuckOfApple/osuwrapper/issues"
+  },
+  "homepage": "https://github.com/LuckOfApple/osuwrapper#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.2",
+    "node-fetch-commonjs": "^3.1.1",
+    "superagent": "^7.1.1"
+  }
+}
